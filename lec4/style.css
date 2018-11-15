@@ -1,0 +1,63 @@
+body{
+    background-image: url(koshki_noch_fonar_74375_1600x900.jpg);
+}
+
+button{
+    margin-top: 10px;
+    background-color: rgba(240, 245, 240, 0.6);
+    border-radius: 20px 20px 20px 20px;
+    border: 3px solid #ffffff;
+    font-size: 35px;
+    outline: none;
+}
+
+#page{
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 675px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 20px 20px 20px 20px;
+    border: 3px solid #ffffff;
+}
+
+#calc{
+    margin-left: 23px;
+    margin-top: 15px;
+    margin-right: 3px;
+}
+
+#calc input{
+    text-align: right;
+    width: 500px;
+    height: 95px;
+    font-size: 35px;
+    background-color: rgba(240, 245, 240, 0.6);
+    border-radius: 20px 20px 20px 20px;
+    border: 3px solid #ffffff;
+}
+
+.number{
+    width: 121px;
+    height: 95px;
+}
+
+.operation{
+    width: 121px;
+    height: 95px;
+}
+
+#decimal{
+    width: 121px;
+    height: 95px;
+}
+
+#C{
+    width: 121px;
+    height: 95px;
+}
+
+#equal{
+    width: 500px;
+    height: 95px;
+}
